@@ -1,0 +1,10 @@
+pub mod gene;
+pub mod function;
+pub mod implement;
+pub mod r#trait;
+pub mod bound;
+pub mod multiple_bounds;
+pub mod where_play;
+pub mod new_type;
+pub mod trait_problem;
+pub mod type_trait;
